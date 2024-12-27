@@ -1,6 +1,6 @@
 mtcnn
-tensorflow==2.6.0
-keras==2.6.0
+tensorflow==2.2.0
+keras==2.3.1
 keras-vggface==0.6
 keras_applications
 tqdm
