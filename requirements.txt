@@ -1,7 +1,7 @@
 mtcnn==0.1.0
 tensorflow==2.13.0
 keras==2.12
-keras-vggface==0.6
+keras-vggface
 keras_applications
 tqdm
 scikit-learn
